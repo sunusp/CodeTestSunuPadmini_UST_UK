@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CustomerMessagingService/CustomerAPI/bin/Debug/net6.0
+/CustomerMessagingService/.vs
+/CustomerMessagingService/CustomerAPI/obj
+/CustomerMessagingService/CustomerService/bin/Debug/net6.0
+/CustomerMessagingService/CustomerService/obj
+/CustomerMessagingService/CustomerServiceTest/bin/Debug/net6.0
+/CustomerMessagingService/CustomerServiceTest/obj
+/CustomerMessagingService/DomainModel/bin/Debug/net6.0
+/CustomerMessagingService/DomainModel/obj
+/CustomerMessagingService/MessagingAPI/bin/Debug/net6.0
+/CustomerMessagingService/MessagingAPI/obj
+/CustomerMessagingService/MessagingService/bin/Debug/net6.0
+/CustomerMessagingService/MessagingService/obj
+/CustomerMessagingService/MessagingServiceTest/bin/Debug/net6.0
+/CustomerMessagingService/MessagingServiceTest/obj
+/CustomerMessagingService/ServiceClient/bin/Debug/net6.0
+/CustomerMessagingService/ServiceClient/obj
